@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/thaar/static/css/main.c56797bc.css",
+    "main.js": "/thaar/static/js/main.6be9e58d.js",
+    "static/media/logos.png": "/thaar/static/media/logos.02027f84327e9e1e6b51.png",
+    "index.html": "/thaar/index.html",
+    "main.c56797bc.css.map": "/thaar/static/css/main.c56797bc.css.map",
+    "main.6be9e58d.js.map": "/thaar/static/js/main.6be9e58d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56797bc.css",
+    "static/js/main.6be9e58d.js"
+  ]
+}
